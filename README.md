@@ -7,3 +7,7 @@ Hi, I'm Venk and I design websites, web-apps and software. My languages consist 
  ClassiCube.
  
  [💬 Comiq](https://comiqapp.com), an upcoming comic-making and sharing social network.
+
+## My GitHub Statistics
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=VenkSociety&show_icons=true&theme=default)](https://github.com/VenkSociety)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkSociety&layout=compact&theme=default)](https://github.com/VenkSociety)
