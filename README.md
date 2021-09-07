@@ -17,3 +17,4 @@ Hi, I'm Derek and I design websites, web-apps and software. My languages consist
 ## My GitHub Statistics
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=derekdinan&show_icons=true&theme=default)](https://github.com/derekdinan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekdinan&layout=compact&theme=default)](https://github.com/derekdinan)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=derekdinan&theme=dracula)](https://github.com/derekdinan)
