@@ -1,9 +1,9 @@
 ![Cover](https://i.imgur.com/LhcgqDy.png)
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ddinan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" alt="Derek Dinan" />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ddinan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" />
 
 #### 👋 Who am I?
-Hi, I'm Derek and I design websites, web-apps and software. My languages consist of **HTML/CSS**, **PHP/SQL**, **JavaScript**, **C#** and **Python**. I'm currently **not available** for hire but this could change soon.
+Hi, I design websites, web-apps and software. My languages consist of **HTML/CSS**, **PHP/SQL**, **JavaScript**, **C#** and **Python**. I'm currently **not available** for hire but this could change soon.
 
 #### ⭐ Some of my more noticeable projects are:
 [💀 Tsuyo](http://github.com/ddinan/Tsuyo), an open-source Discord bot for moderating your server.
